@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[개발 블로그](https://yhkim1.tistory.com/)
+
 <!--
 **jkim6115/jkim6115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
