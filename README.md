@@ -2,8 +2,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjkim6115&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Yohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkim6115&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkim6115&layout=compact)](https://github.com/jkim6115/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jkim6115)](https://solved.ac/jkim6115/)
+![Yohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkim6115&show_icons=true&theme=transparent) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jkim6115)](https://solved.ac/jkim6115/)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkim6115&layout=compact)](https://github.com/jkim6115/github-readme-stats) -->
 
 # 💪Skills
 ### Platforms & Languages
