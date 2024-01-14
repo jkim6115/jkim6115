@@ -1,4 +1,4 @@
-![Yohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkim6115&show_icons=true&bg_color=00000000) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jkim6115)](https://solved.ac/jkim6115/)
+![Yohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkim6115&show_icons=true&bg_color=00000000)
 
 # 🛠️ Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
