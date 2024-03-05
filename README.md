@@ -1,6 +1,8 @@
+# Status
 ![Yohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkim6115&show_icons=true&bg_color=00000000)
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=jkim6115)
 
-# 🛠️ Skills
+# Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/spring%20boot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
